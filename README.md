@@ -1,0 +1,1 @@
+# Modul Magisk: Force 144Hz & FPS Unlocker # Dibuat otomatis oleh AI  # Force Display Refresh Rate & FPS Unlock ro.vendor.display.default_refresh_rate=144 ro.surface_flinger.set_touch_timer_ms=0 ro.surface_flinger.set_idle_timer_ms=0 ro.surface_flinger.se
